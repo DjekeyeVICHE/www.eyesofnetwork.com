@@ -203,5 +203,6 @@ function CopyToClipboard(text) {
     });
   }
 } 
+
 window.onload = resize;
 window.onresize = resize;
